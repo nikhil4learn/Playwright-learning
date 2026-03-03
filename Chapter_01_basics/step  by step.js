@@ -4,7 +4,12 @@ for(let i=0;i<5;i++){
     console.log(i);
 }
 
-let y="nikhil";
+      let y="nikhil";
 console.log(y);
-var z="nikhil";
+    var z="nikhil";
 console.log(z);
+
+public class step_by_step
+
+}
+pu
